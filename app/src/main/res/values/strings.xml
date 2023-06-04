@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Собери Славянина</string>
+    <string name="choose_rus">Выберите Руса</string>
+    <string name="first_rus">Блядокрут Яйцетрест</string>
+    <string name="second_rus">Праведнослав Кувалдович</string>
+    <string name="third_rus">Зубодробир Ящероплющевич</string>
+    <string name="choose_skill">Выберите умение</string>
+    <string name="noskill">Без умения</string>
+    <string name="skill_1">Славянский зажим яйцами</string>
+    <string name="skill_2">Славянский прострел сундука</string>
+    <string name="skill_3">Хинкальный ранбуст сиськами</string>
+    <string name="skill_4">Древнерусский эир дрибблинг ящером</string>
+    <string name="skill_5">Славянский чешуйносбривающий вихрь</string>
+    <string name="first_strength">Выпить воду из Байкала</string>
+    <string name="second_strength">Помолиться богу Сварогу</string>
+    <string name="third_strength">Помолить Стрибога о скорости</string>
+    <string name="fourth_strength">Помолиться Перуну Великому</string>
+    <string name="cancel">Отменить</string>
+    <string name="next">Далее</string>
+    <string name="choose_fight_date">Выберите дату сражения</string>
+    <string name="order_summary">Итоговый Рус</string>
+    <string name="send">Отправить Руса на помощь</string>
+    <string name="rus_name">Имя Руса</string>
+    <string name="skill">Умение Руса</string>
+    <string name="fight_date">Битва с ящерами</string>
+    <string name="subtotal_price">Стоимость Руса %s</string>
+    <string name="total_price">Стоимость Руса %s</string>
+    <string name="new_rus_order">Новый Рус</string>
+    <string name="order_details"> Имя Руса: %1$s\n Умение: %2$s \n Время битвы: %3$s \n
+        Стоимость Руса: %4$s \n\n Русы - Силы Вам и будьте здоровы! \n Ящеры - идите нахуй!</string>
+</resources>
